@@ -113,7 +113,7 @@ If you want to add additional features and improvements, we welcome contribution
 
 ## Live Preview
 
-You can test the API of the project at [https://profanity-api.nyintosh.workers.dev](https://profanity-api.nyintosh.workers.dev). Below are the documentation details for the API endpoint:
+You can test the API of the project at [https://profanity-api.nyinyihtun.workers.dev](https://profanity-api.nyinyihtun.workers.dev). Below are the documentation details for the API endpoint:
 
 - **Endpoint:** /
 - **Method:** POST
